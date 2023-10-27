@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.exe.config
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.exe
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.pdb
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Manager.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Properties.Resources.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.sinhvien.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.exe
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.pdb
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Khoa.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Monhoc.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Nhapdiem.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemdiem.resources
+C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemsvtheokhoa.resources
