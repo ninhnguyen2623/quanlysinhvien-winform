@@ -14,3 +14,19 @@ C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj
 C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Nhapdiem.resources
 C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemdiem.resources
 C:\Users\ACER\source\repos\Bài tập tuần 8 csdl\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemsvtheokhoa.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.exe.config
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.exe
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\bin\Debug\Bài tập tuần 8 csdl.pdb
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.AssemblyReference.cache
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Khoa.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Manager.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Monhoc.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Nhapdiem.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.Properties.Resources.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.sinhvien.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemdiem.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài_tập_tuần_8_csdl.xemsvtheokhoa.resources
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.GenerateResource.cache
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.csproj.CoreCompileInputs.cache
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.exe
+D:\C#\quanlysinhvien-winform\Bài tập tuần 8 csdl\obj\Debug\Bài tập tuần 8 csdl.pdb

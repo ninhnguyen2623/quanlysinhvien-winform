@@ -15,6 +15,7 @@ namespace Bài_tập_tuần_8_csdl
         public Manager()
         {
             InitializeComponent();
+            IsMdiContainer = true;
         }
 
         private void Manager_Load(object sender, EventArgs e)
@@ -44,43 +45,118 @@ namespace Bài_tập_tuần_8_csdl
 
         private void toolStripLabel2_Click(object sender, EventArgs e)
         {
-            sinhvien sss = new sinhvien();
-            sss.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if(item.Name == "sinhvien")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var formSinhVien =  new sinhvien();
+            formSinhVien.MdiParent = this;
+            formSinhVien.Show();
         }
 
         private void toolStripLabel3_Click(object sender, EventArgs e)
         {
-            Khoa k = new Khoa();
-            k.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if (item.Name == "Khoa")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var form = new Khoa();
+            form.MdiParent = this;
+            form.Show();
         }
 
         private void toolStripLabel4_Click(object sender, EventArgs e)
         {
-            Monhoc mh = new Monhoc();
-            mh.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if (item.Name.ToLower() == "monhoc")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var form = new Monhoc();
+            form.MdiParent = this;
+            form.Show();
+           
         }
 
         private void toolStripLabel5_Click(object sender, EventArgs e)
         {
-            Nhapdiem n = new Nhapdiem();
-            n.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if (item.Name.ToLower() == "nhapdiem")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var form = new Nhapdiem();
+            form.MdiParent = this;
+            form.Show();
         }
 
         private void toolStripLabel6_Click(object sender, EventArgs e)
         {
-            xemdiem xd = new xemdiem();
-            xd.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if (item.Name.ToLower() == "xemdiem")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var form = new xemdiem();
+            form.MdiParent = this;
+            form.Show();
         }
 
         private void toolStripLabel7_Click(object sender, EventArgs e)
         {
-            xemsvtheokhoa sdd = new xemsvtheokhoa();
-            sdd.Show();
+            foreach (var item in this.MdiChildren)
+            {
+                if (item.Name.ToLower() == "xemsvtheokhoa")
+                {
+                    item.Activate();
+                    return;
+                }
+            }
+            var form = new xemsvtheokhoa();
+            form.MdiParent = this;
+            form.Show();
         }
 
         private void toolStripLabel8_Click(object sender, EventArgs e)
         {
            Close();
+        }
+
+        private void toolStripProgressBar1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripStatusLabel2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripSplitButton1_ButtonClick(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
+        {
+
         }
     }
 }
