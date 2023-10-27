@@ -16,5 +16,20 @@ namespace Bài_tập_tuần_8_csdl
         {
             InitializeComponent();
         }
+
+        private void monBindingNavigatorSaveItem_Click(object sender, EventArgs e)
+        {
+            this.Validate();
+            this.monBindingSource.EndEdit();
+            this.tableAdapterManager.UpdateAll(this.quanLySinhVienDataSet);
+
+        }
+
+        private void Monhoc_Load(object sender, EventArgs e)
+        {
+            // TODO: This line of code loads data into the 'quanLySinhVienDataSet.Mon' table. You can move, or remove it, as needed.
+            this.monTableAdapter.Fill(this.quanLySinhVienDataSet.Mon);
+
+        }
     }
 }
